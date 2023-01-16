@@ -1,7 +1,7 @@
 ---
-title: Example Category
-description: A description of this category
-image:
+title: HTB
+description: Writeups y contenido acerca de la plataforma HackTheBoxd onde puedes practicar y mejorar tus habilidades de ciberseguridad y practicar.
+image: https://flathill70.github.io/categories/htb/htb11.png
 
 # Badge style
 style:
