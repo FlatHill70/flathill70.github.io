@@ -8,9 +8,8 @@ image: cover.jpg
 
 
   
-¿Qué es esta web?
+    ¿Qué es esta web?
 
-<p class="no-text"><div class="gallery"><figure class="gallery-image" style="flex-grow: 100; flex-basis: 240px;"><a href="https://d3b0o.github.io/whomai/images/me.png" target="_blank"><img src="/whomai/images/me.png" width="230" height="230" loading="lazy" class="gallery-image" data-flex-grow="100" data-flex-basis="240px"></a></figure></div></p>
 
     Mi nombre es Guillem.
 
@@ -21,20 +20,3 @@ image: cover.jpg
     Encontrarás desde Writeups, tutoriales, consejos y demás
 
     Espero que te seán utiles y aprendas algo nuevo!
-
-
-    
-</p>
-
-</tr>
-</tbody>
-</table></div>
-
-<h2 id="hacthebox-htb">HackTheBox (HTB)</h2>
-<p>Perfil: <a class="link" href="https://app.hackthebox.com/users/347016" target="_blank" rel="noopener"https://app.hackthebox.com/users/347016</a></p>
-<h3 id="ctf-completados-1">CTF Completados</h3>
-<ul>
-
-</ul>
-
-</section>
