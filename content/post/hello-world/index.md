@@ -1,6 +1,5 @@
 ---
 title: Primer post!
-description: Welcome to Hugo Theme Stack
 slug: primer-post
 date: 2023-16-01 00:00:00+0000
 image: cover.jpg
