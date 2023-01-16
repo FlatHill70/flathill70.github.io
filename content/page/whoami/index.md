@@ -8,10 +8,10 @@ image: cover.jpg
 
 
   
-    <h2 id="qué-es-esta-web">¿Qué es esta web?</h2>
+¿Qué es esta web?
+
 <p class="no-text"><div class="gallery"><figure class="gallery-image" style="flex-grow: 100; flex-basis: 240px;"><a href="https://d3b0o.github.io/whomai/images/me.png" target="_blank"><img src="/whomai/images/me.png" width="230" height="230" loading="lazy" class="gallery-image" data-flex-grow="100" data-flex-basis="240px"></a></figure></div></p>
 
-<p> 
     Mi nombre es Guillem.
 
     Bienvenido a mi web personal, un espacio dedicado a compartir mis apuntes y conocimientos sobre programación, Linux y Ciber Seguridad.
